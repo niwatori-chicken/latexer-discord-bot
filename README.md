@@ -1,6 +1,9 @@
-# latexer-discord-bot
+# LaTeXer Discord bot
+
+![Banner](https://github.com/niwatori-chicken/latexer-discord-bot/blob/assets/latexer_banner.png?raw=true)
+
 ## 概要
-Math-mode LaTeXコードをコンパイルしてpngとして出力するbotです。
+Math-mode LaTeXコードをコンパイルしてpngとして出力するDiscord botです。
 
 ## 使い方
 `/compile_latex`
